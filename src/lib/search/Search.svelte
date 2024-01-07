@@ -249,7 +249,7 @@
 
 	.region-list {
 		background: var(--color-white);
-		width: 240px;
+		width: 100%;
 		position: absolute;
 		z-index: 1;
 		top: 67px;
@@ -276,11 +276,11 @@
 
 	.category-list {
 		background: var(--color-white);
-		width: 100px;
+		width: 100%;
 		position: absolute;
 		z-index: 1;
 		top: 67px;
-		/* padding: 12px 12px 0; */
+		padding: 12px 12px 0;
 	}
 
 	.category-option {

@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Right Now Billiards Club",
+        "address": "38-40 Huỳnh Khương Ninh, Đa Kao, Quận 1, Thành phố Hồ Chí Minh 71007, Việt Nam",
+        "instagram": "",
+        "open_time": "Cả ngày",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOBaYckaHsuGPWiQd4gMYHMTwVj4llIQHS9VsfS=w408-h271-k-no",
+        "marker-symbol": "cafe-shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6934092,
+          10.789911
+        ]
+      }
+    }
+  ]
+}
